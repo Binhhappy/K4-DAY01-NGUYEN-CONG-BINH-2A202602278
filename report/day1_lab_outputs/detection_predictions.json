@@ -12,7 +12,7 @@
     "score_threshold": 0.35,
     "class_id": 5,
     "class_name": "bus",
-    "score": 0.912558,
+    "score": 0.912557,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -66,7 +66,7 @@
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
-      225.61,
+      225.6,
       132.68,
       296.09,
       220.45
@@ -87,7 +87,7 @@
     "score_threshold": 0.35,
     "class_id": 2,
     "class_name": "car",
-    "score": 0.846923,
+    "score": 0.846922,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -187,7 +187,7 @@
     "score_threshold": 0.35,
     "class_id": 2,
     "class_name": "car",
-    "score": 0.759714,
+    "score": 0.759713,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -212,7 +212,7 @@
     "score_threshold": 0.35,
     "class_id": 2,
     "class_name": "car",
-    "score": 0.749282,
+    "score": 0.749281,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -262,7 +262,7 @@
     "score_threshold": 0.35,
     "class_id": 2,
     "class_name": "car",
-    "score": 0.609901,
+    "score": 0.609902,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -287,7 +287,7 @@
     "score_threshold": 0.35,
     "class_id": 2,
     "class_name": "car",
-    "score": 0.605583,
+    "score": 0.605584,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -312,7 +312,7 @@
     "score_threshold": 0.35,
     "class_id": 5,
     "class_name": "bus",
-    "score": 0.592563,
+    "score": 0.592564,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -337,7 +337,7 @@
     "score_threshold": 0.35,
     "class_id": 2,
     "class_name": "car",
-    "score": 0.556297,
+    "score": 0.556298,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -362,7 +362,7 @@
     "score_threshold": 0.35,
     "class_id": 5,
     "class_name": "bus",
-    "score": 0.547612,
+    "score": 0.547611,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -487,7 +487,7 @@
     "score_threshold": 0.35,
     "class_id": 2,
     "class_name": "car",
-    "score": 0.479619,
+    "score": 0.47962,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -512,7 +512,7 @@
     "score_threshold": 0.35,
     "class_id": 5,
     "class_name": "bus",
-    "score": 0.454891,
+    "score": 0.45489,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -562,7 +562,7 @@
     "score_threshold": 0.35,
     "class_id": 0,
     "class_name": "person",
-    "score": 0.406819,
+    "score": 0.40682,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -612,7 +612,7 @@
     "score_threshold": 0.35,
     "class_id": 2,
     "class_name": "car",
-    "score": 0.3878,
+    "score": 0.387799,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -637,7 +637,7 @@
     "score_threshold": 0.35,
     "class_id": 0,
     "class_name": "person",
-    "score": 0.371262,
+    "score": 0.371263,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -662,7 +662,7 @@
     "score_threshold": 0.35,
     "class_id": 0,
     "class_name": "person",
-    "score": 0.912625,
+    "score": 0.912624,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -687,7 +687,7 @@
     "score_threshold": 0.35,
     "class_id": 45,
     "class_name": "bowl",
-    "score": 0.719062,
+    "score": 0.719063,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -837,7 +837,7 @@
     "score_threshold": 0.35,
     "class_id": 45,
     "class_name": "bowl",
-    "score": 0.464905,
+    "score": 0.464904,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -887,7 +887,7 @@
     "score_threshold": 0.35,
     "class_id": 41,
     "class_name": "cup",
-    "score": 0.381542,
+    "score": 0.381543,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -1012,7 +1012,7 @@
     "score_threshold": 0.35,
     "class_id": 0,
     "class_name": "person",
-    "score": 0.673664,
+    "score": 0.673663,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -1112,7 +1112,7 @@
     "score_threshold": 0.35,
     "class_id": 41,
     "class_name": "cup",
-    "score": 0.559025,
+    "score": 0.559024,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -1137,7 +1137,7 @@
     "score_threshold": 0.35,
     "class_id": 0,
     "class_name": "person",
-    "score": 0.551795,
+    "score": 0.551794,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -1162,7 +1162,7 @@
     "score_threshold": 0.35,
     "class_id": 41,
     "class_name": "cup",
-    "score": 0.4921,
+    "score": 0.492099,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -1187,7 +1187,7 @@
     "score_threshold": 0.35,
     "class_id": 0,
     "class_name": "person",
-    "score": 0.431939,
+    "score": 0.43194,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -1212,7 +1212,7 @@
     "score_threshold": 0.35,
     "class_id": 0,
     "class_name": "person",
-    "score": 0.412619,
+    "score": 0.41262,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
@@ -1312,7 +1312,7 @@
     "score_threshold": 0.35,
     "class_id": 0,
     "class_name": "person",
-    "score": 0.36196,
+    "score": 0.361961,
     "coordinate_unit": "pixel",
     "bbox_format": "xyxy",
     "bbox_xyxy": [
